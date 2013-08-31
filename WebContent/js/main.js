@@ -1,5 +1,3 @@
-//test
-
 contentViewSelector = "#ContentView";
 
 $(document).ready(function()
