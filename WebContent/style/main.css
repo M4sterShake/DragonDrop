@@ -1,0 +1,6 @@
+body {font-family: Trebuchet MS;}
+#ContentView {width:98%; height:500px; border:1px solid #888; margin: 0 auto; text-align:center; overflow:auto;}
+#ContentView li {list-style-type: none; border-bottom:1px solid #EEE}
+#ContentView .timeStamp {font-size:0.7em; padding:0; margin:0; background-color:#EEE;}
+#ContentView hr {margin:0;}
+#ContentView ul {margin:0; padding:0;}
